@@ -1,0 +1,52 @@
+YOW
+
+BRUH Start Production Rule
+
+IN x
+OUT "Hello World"
+OUT "Value" + num
+
+CHARZ a
+CHAR b
+TRALSE c
+
+CHARZ d = 'a'
+NUMBRT float = 10.5 / 33.6
+CHAR a
+
+a = "hello"
+
+NUMBR x
+x = 5
+
+NUMBR y
+num = x + y
+
+NUMBRT y
+y = 8 * 3 / 4 + num
+
+IF ( y == x )
+   OUT y
+
+IF ( x <= 5 ) {
+   num = x
+}
+ELSE y = x
+
+IF ( x <= 5 ) {
+   num = x
+}
+ELF ( y != 0 ) num = y
+ELSE y = x
+
+FOR ( i = 0 ; i < x ; i ++ ) {
+   x += y
+BRUH this is a line comment
+   y = num
+}
+
+BTWBRUH 
+   End of code block
+CMT
+
+AIGHT
